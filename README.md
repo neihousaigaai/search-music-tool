@@ -9,4 +9,5 @@ A new tool to search music in your computer
 
 ## How to use
 <s>See this [link](/how-to-use-vi.md) if you speak Vietnamese.</s>
+
 I haven't written how-to-use file yet. Wait for me!
